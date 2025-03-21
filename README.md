@@ -28,6 +28,8 @@ George Perez	22	North	Drawing Pad	10/31/2022 00:00	0	0	 $-   	Poor
 Roger Stern	23	West	Notepads	11/30/2022 00:00	65	$30.77 	 $2,000.05 	Excellent
 Tom DeFalco	24	East	Pen Set	12/31/2022 00:00	70	$30.00 	 $2,100.00 	Excellent
 Loki Laufeyson	25	South	Trickster's Hat	1/31/2023 00:00	75	$29.33 	 $2,199.75 	Excellent
+### VISUALIZE THE REGION
+
 Thor Odinson	26	North	Mjolnir	2/28/2023 00:00	80	$28.75 	 $2,300.00 	Excellent
 Natasha Romanoff	27	West	Spy Kit	3/31/2023 00:00	0	0	 $-   	Poor
 Steve Rogers	28	South	Leadership Manual	4/30/2023 00:00	85	$29.41 	 $2,499.85 	Excellent
